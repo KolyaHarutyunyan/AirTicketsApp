@@ -1,4 +1,6 @@
-<img width="1439" alt="Screen Shot 2024-04-23 at 01 55 19" src="https://github.com/KolyaHarutyunyan/AirTicketsApp/assets/51478477/16b8ef9b-4341-4bb0-af41-774fb358cd23"># React + TypeScript + Vite
+<img width="1439" alt="Screen Shot 2024-04-23 at 01 55 56" src="https://github.com/KolyaHarutyunyan/AirTicketsApp/assets/51478477/d5d3eba5-38ff-4b71-8b03-2aa536e6c5ef">
+
+# React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
