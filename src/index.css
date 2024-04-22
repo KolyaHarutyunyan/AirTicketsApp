@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@layer base {
+  .currency-radio .ant-radio-button-wrapper {
+    @apply text-blue-1;
+  }
+  .currency-radio .ant-radio-button-wrapper-checked,
+  .currency-radio
+    .ant-radio-button-wrapper.ant-radio-button-wrapper-checked:hover {
+    @apply bg-blue-1 text-white border-blue-1;
+  }
+  .currency-radio .ant-radio-button-wrapper:hover {
+    @apply bg-blue-2 border-blue-1;
+  }
+}
